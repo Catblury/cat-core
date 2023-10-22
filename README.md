@@ -20,6 +20,6 @@
 You can install "cat-core" via your preferred package manager or by cloning this repository:
 
 ```bash
-git clone https://github.com/yourusername/cat-core.git
+git clone https://github.com/CatbluryOP/cat-core.git
 
  
