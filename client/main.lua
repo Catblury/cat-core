@@ -180,11 +180,6 @@ CAT_CORE.Functions.GetClosestObject = function(coords)
     return closestObject, closestDistance
 end
 
-
-
-
-
-
 exports('GetCoreObject', function()
     return CAT_CORE
 end)
