@@ -1,6 +1,6 @@
 # cat-core
 
-![Cat Core Logo](https://cdn.discordapp.com/attachments/1212082735678627951/1212098615653310535/PxX6gAs.gif?ex=65f099cd&is=65de24cd&hm=7c5dc3f80188e431a1eb53a4bf0b1a05fee62006af1b9c0e32bb4a7dddbfe8b0&)
+![Cat Core Logo](https://cdn.discordapp.com/attachments/1212082735678627951/1212098615653310535/PxX6gAs.gif)
 
 **Disclaimer**: This project has nothing to do with Windows Server Core or any server-related functionality. "cat-core" is a specialized utility designed exclusively for managing cat files.
 
