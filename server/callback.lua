@@ -23,6 +23,5 @@ RegisterNetEvent('cat-core:Server:TriggerCallback', function(name, ...)
     end, ...)
 end)
 
---//#                     #\\--
 
 
